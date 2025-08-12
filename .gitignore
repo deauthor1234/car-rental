@@ -1,0 +1,11 @@
+node_modules/
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# VS Code settings
+.vscode/
