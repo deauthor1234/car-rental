@@ -6,7 +6,7 @@ A modern, responsive car rental website built using **HTML**, **CSS**, **JavaScr
 
 ## 📸 Preview
 
-![Portfolio Screenshot](./screenshot.png)  
+![Portfolio Screenshot](./Preview.png)  
 
 ---
 
